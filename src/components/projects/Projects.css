@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+}#projects{
+    background-color: var(--color1);
+    position: relative;
+}
+
+
+#projects .onda-path {
+  fill: var(--color1); 
+}
