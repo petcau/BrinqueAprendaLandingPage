@@ -15,7 +15,18 @@ export const JOGOS_DATA = [
                     "Foco e gerenciamento de tempo"
                 ],
                 // Array para os desenvolvedores (deixado vazio conforme solicitado)
-                desenvolvedores: [],
+                desenvolvedores: [
+                    "Gustavo Mendes",
+                    "Marco Antônio Dantas",
+                    "Neemias Vasconcelos",
+                    "Matheus Oliveira Santos",
+                    "Hernandes Pereira",
+                    "Maria Avelino",
+                    "Joedson Pimentel Jr.",
+                    "Pablo Santana de Souza",
+                    "Everton Oliveira"
+                    
+                ],
                 imagem: "/assets/gameThumbs/anagrama.webp",
                 caracteristicas: [
                     {
@@ -36,7 +47,7 @@ export const JOGOS_DATA = [
                 ],
                 url: "https://brinqueaprenda.com.br"
             },{
-                titulo: "abacomania",
+                titulo: "Abacomania",
                 subtitulo: "Descubra o poder do ábaco e aprenda a contar de um jeito genial!",
                 sinopse: "Uma viagem no tempo onde você aprende a usar o instrumento de cálculo mais antigo do mundo para representar números e dominar a matemática.",
                 descricaoLonga: "Venha se transformar em um mestre dos números com o abacomania! Neste jogo super divertido, as crianças são introduzidas ao incrível universo do ábaco, uma ferramenta milenar usada para fazer contas. O desafio é simples de entender, mas cheio de aprendizado: um número aparece na tela e o jogador precisa usar a lógica para representá-lo movendo as bolinhas do tabuleiro. Cada cor ou posição de bolinha carrega um poder e representa valores diferentes, como 1, 5, 10, 50 e 100. É a combinação perfeita entre história, raciocínio e matemática visual!",
@@ -48,7 +59,15 @@ export const JOGOS_DATA = [
                     "Noção de ordens e grandezas (Unidades, Dezenas, Centenas)"
                 ],
                 // Array para os desenvolvedores (deixado vazio conforme solicitado)
-                desenvolvedores: [],
+                desenvolvedores: [
+                    "Gustavo Mendes",
+                    "Marco Antônio Dantas",
+                    "Neemias Vasconcelos",
+                    "Matheus Oliveira Santos",
+                    "Gustavo Ramon Santos",
+                    "Vítor Gonzaga",
+                    "Thiago Pereira"
+                ],
                 imagem: "/assets/gameThumbs/abacomania.webp",
                 caracteristicas: [
                     {
@@ -80,7 +99,17 @@ export const JOGOS_DATA = [
                     "Ortografia e Alfabetização",
                     "Foco e gerenciamento de tempo"
                 ],
-                desenvolvedores: [],
+                desenvolvedores: [
+                    "Gustavo Mendes",
+                    "Marco Antônio Dantas",
+                    "Neemias Vasconcelos",
+                    "Matheus Oliveira Santos",
+                    "Eduardo Santos",
+                    "Gabriel Tolentino",
+                    "Gustavo Vila Nova Matos",
+                    "Daniel dos Santos"
+
+                ],
                 imagem: "/assets/gameThumbs/digirace.webp",
                 caracteristicas: [
                     {
@@ -113,7 +142,18 @@ export const JOGOS_DATA = [
                     "Coordenação motora fina (Arrastar e soltar)"
                 ],
                 // Array para os desenvolvedores (deixado vazio conforme solicitado)
-                desenvolvedores: [],
+                desenvolvedores: [
+                    "Gustavo Mendes",
+                    "Marco Antônio Dantas",
+                    "Neemias Vasconcelos",
+                    "Matheus Oliveira Santos",
+                    "Felipe Dantas Ferreira",
+                    "Jadson Pereira",
+                    "Emanuel Bispo",
+                    "Joabe Borges",
+                    "Silas Dantas"
+
+                ],
                 imagem: "/assets/gameThumbs/jornadaDosBichos.webp",
                 caracteristicas: [
                     {
