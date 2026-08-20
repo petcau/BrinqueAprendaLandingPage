@@ -24,7 +24,7 @@ export default function About() {
           <p>Desenvolvemos uma coletânea de jogos digitais pensados sob medida para crianças em fase de alfabetização e anos iniciais do Ensino Fundamental. Cada jogo é cuidadosamente projetado para respeitar o ritmo do aprendizado infantil, unindo mecânicas instigantes a desafios educativos que estimulam a curiosidade e a autonomia.</p>
           
         </div>
-        <img src="/assets/amazonia.png" alt="" />
+        <img src="/assets/amazonia.webp" alt="" />
 
       </div>
 

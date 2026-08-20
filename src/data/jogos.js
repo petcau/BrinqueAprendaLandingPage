@@ -1,6 +1,6 @@
 export const JOGOS_DATA = [
     {
-        ano: 2024,
+        ano: 2025.1,
         projetos:[
             {
                 titulo: "Anagrama",
@@ -16,7 +16,7 @@ export const JOGOS_DATA = [
                 ],
                 // Array para os desenvolvedores (deixado vazio conforme solicitado)
                 desenvolvedores: [],
-                imagem: "/assets/gameThumbs/anagrama.png",
+                imagem: "/assets/gameThumbs/anagrama.webp",
                 caracteristicas: [
                     {
                         icon: "🔤",
@@ -49,7 +49,7 @@ export const JOGOS_DATA = [
                 ],
                 // Array para os desenvolvedores (deixado vazio conforme solicitado)
                 desenvolvedores: [],
-                imagem: "/assets/gameThumbs/abacomania.png",
+                imagem: "/assets/gameThumbs/abacomania.webp",
                 caracteristicas: [
                     {
                         icon: "🧮",
@@ -81,7 +81,7 @@ export const JOGOS_DATA = [
                     "Foco e gerenciamento de tempo"
                 ],
                 desenvolvedores: [],
-                imagem: "/assets/gameThumbs/digirace.png",
+                imagem: "/assets/gameThumbs/digirace.webp",
                 caracteristicas: [
                     {
                         icon: "⌨️",
@@ -114,7 +114,7 @@ export const JOGOS_DATA = [
                 ],
                 // Array para os desenvolvedores (deixado vazio conforme solicitado)
                 desenvolvedores: [],
-                imagem: "/assets/gameThumbs/jornadaDosBichos.png",
+                imagem: "/assets/gameThumbs/jornadaDosBichos.webp",
                 caracteristicas: [
                     {
                         icon: "🌍",
@@ -136,7 +136,7 @@ export const JOGOS_DATA = [
             }
         ]
     },{
-        ano: 2025,
+        ano: 2025.2,
         projetos:[
             {
                 titulo: "Recicla Kids",
@@ -157,7 +157,7 @@ export const JOGOS_DATA = [
                 "Paulo Henrique Lima Ribeiro",
                 "José Natalino Neves de Jesus"
                 ],
-                imagem: "/assets/gameThumbs/reciclaKids.png",
+                imagem: "/assets/gameThumbs/reciclaKids.webp",
                 caracteristicas: [
                     {
                         icon: "♻️",
@@ -195,7 +195,7 @@ export const JOGOS_DATA = [
                     "Gabriel Souza",
                     "Jimy Kael Lins "
                 ],
-                imagem: "/assets/gameThumbs/palavrasMagicas.png",
+                imagem: "/assets/gameThumbs/palavrasMagicas.webp",
                 caracteristicas: [
                     {
                         icon: "🏰",
@@ -233,7 +233,7 @@ export const JOGOS_DATA = [
                     "Nairana Anjos",
                     "Tiago Correia"
                 ],
-                imagem: "/assets/gameThumbs/tesouroAVista.png",
+                imagem: "/assets/gameThumbs/tesouroAVista.webp",
                 caracteristicas: [
                     {
                         icon: "🗺️",
@@ -271,7 +271,7 @@ export const JOGOS_DATA = [
                     "Jadislan Santos Pereira",
                     "Simão Pedro da Silva dos Santos"
                 ],
-                imagem: "/assets/gameThumbs/tabuad4on.png",
+                imagem: "/assets/gameThumbs/tabuad4on.webp",
                 caracteristicas: [
                     {
                         icon: "📊",
@@ -309,7 +309,7 @@ export const JOGOS_DATA = [
                     "Caick Ruan",
                     "Pedro Sérgio de Souza"
                 ],
-                imagem: "/assets/gameThumbs/matemagica.png",
+                imagem: "/assets/gameThumbs/matemagica.webp",
                 caracteristicas: [
                     {
                         icon: "🎲",
@@ -346,7 +346,7 @@ export const JOGOS_DATA = [
                     "Pedro Luiz Figueiredo Fontes",
                     "Leandro Silva Matos"
                 ],
-                imagem: "/assets/gameThumbs/mathrace.png",
+                imagem: "/assets/gameThumbs/mathrace.webp",
                 caracteristicas: [
                     {
                         icon: "🏎️",

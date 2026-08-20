@@ -20,7 +20,7 @@ export default function Footer() {
           </ul>
         </div>
 
-        <div className="footer-section contact">
+        {/* <div className="footer-section contact">
           <h4>Contato</h4>
           <p>contato@brinqueaprenda.com</p>
           <div className="social-icons">
@@ -28,7 +28,7 @@ export default function Footer() {
             <span className="icon" title="YouTube">📺</span>
             <span className="icon" title="GitHub">💻</span>
           </div>
-        </div>
+        </div> */}
 
       </div>
       <div className="footer-bottom">

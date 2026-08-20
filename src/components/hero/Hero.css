@@ -6,7 +6,7 @@
     padding: 2rem 3rem 5rem;
     gap: 2rem;
     background-color: var(--color5);
-    background-image: url("/assets/image.png");
+    background-image: url("/assets/image.webp");
     /*background-attachment: fixed;*/
 
 }

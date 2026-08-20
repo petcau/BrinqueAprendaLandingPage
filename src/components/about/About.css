@@ -19,10 +19,12 @@
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
   #descriptionWraper{
     justify-content: center;
     align-items: center;
     flex-direction: column-reverse;
+  }#descriptionWraper>img{
+    max-width: 500px;
   }
 }
